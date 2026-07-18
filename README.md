@@ -1,5 +1,7 @@
 # 📊 Data Warehouse and Business Analytics Platform
 
+InternID : CITS5207
+
 A complete end-to-end Data Warehouse and Business Analytics solution built using **PostgreSQL, Python, SQL, and Power BI**. This project demonstrates the complete Business Intelligence workflow, including ETL pipeline development, dimensional data modeling, analytical SQL, interactive dashboards, and business KPI reporting.
 
 ---
